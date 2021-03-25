@@ -1,0 +1,5 @@
+total 813800
+drwx------   4 misiek  staff        128 Mar 25 13:50 .
+drwxr-xr-x  55 misiek  staff       1760 Mar 25 13:50 ..
+-rw-r--r--   1 misiek  staff  386739206 Mar 25 13:50 redux.node.state_0
+-rw-r--r--   1 misiek  staff   29921967 Mar 25 13:50 redux.rest.state

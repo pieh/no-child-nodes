@@ -1,0 +1,58 @@
+success open and validate gatsby-configs - 0.029s
+
+[2K[1A[2K[Gsuccess load plugins - 0.876s
+
+[2K[1A[2K[Gsuccess onPreInit - 0.018s
+
+[2K[1A[2K[Gsuccess initialize cache - 0.005s
+
+[2K[1A[2K[Gsuccess copy gatsby files - 0.075s
+
+[2K[1A[2K[Gsuccess onPreBootstrap - 0.015s
+
+[2K[1A[2K[Gsuccess createSchemaCustomization - 0.008s
+
+[2K[1A[2K[Ginfo Creating 10000 nodes with 10 markdown fields in "legacy" mode.
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.000s
+
+[2K[1A[2K[Gsuccess source and transform nodes - 26.676s
+
+[2K[1A[2K[Gsuccess building schema - 0.900s
+
+[2K[1A[2K[Ginfo Total nodes: 220020, SitePage nodes: 10001 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess createPages - 1.982s
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.002s
+
+[2K[1A[2K[Gsuccess createPagesStatefully - 0.026s
+
+[2K[1A[2K[Gsuccess update schema - 0.101s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.067s
+
+[2K[1A[2K[Gsuccess write out redirect data - 0.001s
+
+[2K[1A[2K[Gsuccess onPostBootstrap - 0.000s
+
+[2K[1A[2K[Ginfo bootstrap finished - 34.448s
+
+[2K[1A[2K[Gsuccess run page queries - 67.970s - 10001/10001 147.14/s
+
+[2K[1A[2K[Gsuccess write out requires - 0.043s
+
+[2K[1A[2K[Gsuccess Building production JavaScript and CSS bundles - 5.614s
+
+[2K[1A[2K[Gsuccess Rewriting compilation hashes - 0.002s
+
+[2K[1A[2K[Gsuccess Building HTML renderer - 1.982s
+
+[2K[1A[2K[Gsuccess Building static HTML for pages - 1.880s - 10001/10001 5320.64/s
+
+[2K[1A[2K[Gsuccess onPostBuild - 0.001s
+
+[2K[1A[2K[Ginfo Done building in 118.801067231 sec
+
